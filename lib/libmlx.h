@@ -6,7 +6,7 @@
 /*   By: cglavieu <cglavieu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/01/29 15:52:08 by cglavieu          #+#    #+#             */
-/*   Updated: 2015/05/19 19:13:25 by cglavieu         ###   ########.fr       */
+/*   Updated: 2015/11/22 17:28:28 by cgoeminn         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@
 # include <unistd.h>
 # include <fcntl.h>
 # include "minilibx_macos/mlx.h"
-# include "libft/libft.h"
+# include "libft.h"
 # define WIDTH 1920
 # define HEIGHT 1080
 # define XCENTER 960
